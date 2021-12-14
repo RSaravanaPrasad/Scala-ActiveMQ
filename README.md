@@ -8,7 +8,7 @@
 ##
 ### Prerequisites
 - JDK 1.8
-- Maven 3
+- sbt
 - Scala 2.13.6
 - ActiveMQ 
 
